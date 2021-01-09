@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAnimationWithButton</string>
+    <string name="ShowHide">Кликни меня</string>
+    <string name="HelloWorld">ПРИВЕЕТ!</string>
+</resources>
